@@ -1,7 +1,7 @@
 Shortcuts of Bash
 =====================
 
-> Mayank Srivastava
+> Mayank Srivastava | 4 Jan 2021 10:59 PM
 
 ## Moving
 
